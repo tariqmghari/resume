@@ -17,7 +17,7 @@ Passionate about programming for a long time, in my first years of university I 
 
 - *<u>DeepLearning:</u>*  Pytorch (2 years), Keras
 - Dev: Python (4 years), Java (4 years), C, C++, Scala(1 year), Julia
-- Business Intelligence: PowetBi, Tableau, SSIS, Talend
+- Business Intelligence: PowerBi, Tableau, SSIS, Talend
 - BIG DATA: Hadoop, Spark, NOSQL
 - Machine Learning: SK-LEARN (classification, Regression, clustering), Tensorflow
 - DataBase: MYSQL, Mongodb, OracleDB
